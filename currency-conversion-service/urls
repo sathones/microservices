@@ -1,0 +1,5 @@
+URL
+http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10 - 
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10 - using feign
+
+{"id":1000,"from":"USD","to":"INR","quantity":100,"conversionMultiple":75.00,"totalCalculateAmount":7500.00,"environment":"8100"}
