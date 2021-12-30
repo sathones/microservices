@@ -1,0 +1,7 @@
+Currency-exchange service
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+Currency-coversion service
+http://localhost:8000/currency-conversion/from/USD/to/INR
+
+{"id":10002,"from":"EU","to":"INR","conversionMultiple":101.00,"environment":"8000"}
